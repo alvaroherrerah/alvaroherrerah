@@ -1,16 +1,13 @@
-### Hi there 👋
-I'm Alvaro
-<!--
-**alvaroherrerah/alvaroherrerah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Life
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://mi-proyecto.com/logo.png" alt="Logo del Proyecto" width="200">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong>Descripción breve del proyecto en una o dos líneas.</strong>
+  <br>
+  <sub>Desarrollado con ❤️ por [Tu Nombre](https://github.com/tuusuario)</sub>
+</p>
+
+---
