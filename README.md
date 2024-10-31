@@ -1,13 +1,1 @@
-# 🚀 Life
-
-<p align="center">
-  <img src="https://mi-proyecto.com/logo.png" alt="Logo del Proyecto" width="200">
-</p>
-
-<p align="center">
-  <strong>Descripción breve del proyecto en una o dos líneas.</strong>
-  <br>
-  <sub>Desarrollado con ❤️ por [Tu Nombre](https://github.com/tuusuario)</sub>
-</p>
-
----
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F16%2F02%2Fb2%2F1602b26c05ee78120695d592a68b8912.gif&f=1&nofb=1&ipt=e3e36b01024f5c9e050165be9444d10780e5bb9b9ebea5b003f4cf2052d88be7&ipo=images)
